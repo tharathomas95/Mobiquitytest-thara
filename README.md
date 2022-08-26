@@ -17,6 +17,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 # Mobiquitytest
 
 I have done a F1 project for Mobiquity test by creating an angular project using latest version with the help of angular-cli (@angular/cli": "~14.1.2")
+Solution can be found on https://github.com/tharathomas95/Mobiquitytest-thara
 
 # Question
 
